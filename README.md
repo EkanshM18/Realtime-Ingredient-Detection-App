@@ -62,7 +62,7 @@ The system comprises the following components:
 
 1. Clone the repository:
    ```bash
-   https://github.com/iishaan30/Realtime-Ingredient-Detection-App
+   https://github.com/EkanshM18/Realtime-Ingredient-Detection-App
    ```
 2. Open the project in Android Studio.
 3. Build and run the app on an Android device or emulator.
@@ -90,4 +90,4 @@ We welcome contributions! To contribute:
 - Kaggle for the **Vegetable Image Dataset**.
 - TensorFlow for providing tools to build and optimize the model.
 
-For more details, visit the [GitHub Repository](https://github.com/iishaan30/Realtime-Ingredient-Detection-App).
+For more details, visit the [GitHub Repository](https://github.com/EkanshM18/Realtime-Ingredient-Detection-App).
